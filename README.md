@@ -17,7 +17,7 @@ I'm Young.
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Young0510&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Young0510&hide_title=false&show_icons=true&icon_color=007aff&theme=dark)
 
 -------
 
