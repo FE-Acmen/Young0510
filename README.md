@@ -17,10 +17,10 @@ I'm Young.
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Young0510&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=Young0510&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff&theme=dark)
 
 -------
 
 📊 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young0510&layout=compact)](https://github.com/Young0510)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young0510&layout=compact&theme=dark)](https://github.com/Young0510)
